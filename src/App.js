@@ -3,8 +3,6 @@ import React, { Component } from "react";
 import Header from "./Components/Hearder.js";
 import Main from "./Components/Main.js";
 import Footer from "./Components/Footer.js";
-import styled from 'styled-components';
-
 import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
